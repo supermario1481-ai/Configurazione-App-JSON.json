@@ -2,7 +2,7 @@
   "filmList": [
     {
       "nomeCinema": "MULTISALA GRILLO",
-      "titoloFilm": "AVATAR\nFUOCO E FIAMME",
+      "titoloFilm": "AVATAR\\nFUOCO E FIAMME",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
       "ore": "18:30 - 22:00 3D",
       "festivita": "Festivo",
@@ -10,7 +10,7 @@
     },
     {
       "nomeCinema": "MULTISALA GRILLO",
-      "titoloFilm": "CHECCO ZALONE\nBUEN CAMINO",
+      "titoloFilm": "CHECCO ZALONE\\nBUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
       "ore": "16:30 F - 18:30 - 20:30 - 22:30",
       "festivita": "",
@@ -18,7 +18,7 @@
     },
     {
       "nomeCinema": "MULTISALA GRILLO",
-      "titoloFilm": "CHECCO ZALONE\nBUEN CAMINO",
+      "titoloFilm": "SPONCEBOB\\nBUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
       "ore": "16:30 F - 18:30 - 20:30 - 22:30",
       "festivita": "",
@@ -26,7 +26,7 @@
     },
     {
       "nomeCinema": "CINEMA EDEN",
-      "titoloFilm": "CHECCO ZALONE\nBUEN CAMINO",
+      "titoloFilm": "CHECCO ZALONE\\nBUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
       "ore": "16:30 F - 18:30 - 20:30 - 22:30",
       "festivita": "",
