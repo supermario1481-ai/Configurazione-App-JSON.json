@@ -6,7 +6,7 @@
       "titoloFilm": "AVATAR\\nFUOCO E FIAMME",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
       "ore": "18:30 - 22:00 3D",
-      "festivita": "Festivo",
+      "festivita": "",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Avatar.jpg?raw=true"
     },
     {
@@ -38,21 +38,21 @@
     },
     {
       "testoStatoProgrammazione": "DAL 8 GENNAIO:",
-      "nomeCinema": "MULTISALA GRILLO",
-      "titoloFilm": "CHECCO ZALONE\\nBUEN CAMINO",
+      "nomeCinema": "MULTISALA GRILLO/CINEMA EDEN",
+      "titoloFilm": "UNA DI FAMIGLIA\\nTHE HOUSEMAID",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
-      "ore": "16:30 F - 18:30 - 20:30 - 22:30",
+      "ore": "18:00 - 20:15 - 22:30",
       "festivita": "",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
     },
     {
-      "testoStatoProgrammazione": "IN PROGAMMAZIONE:",
-      "nomeCinema": "MULTISALA GRILLO",
-      "titoloFilm": "",
+      "testoStatoProgrammazione": "DAL 15 GENNAIO:",
+      "nomeCinema": "MULTISALA GRILLO/CINEMA EDEN",
+      "titoloFilm": "PAOLO SORRENTINO\\nLA GRAZIA",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
-      "ore": "16:30 F - 18:30 - 20:30 - 22:30",
+      "ore": "18:00 - 20:15 - 22:30",
       "festivita": "",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
     }
   ]
 }
