@@ -1,6 +1,7 @@
 {
   "listaFilm": [
     {
+      "testoStatoProgrammazione": "IN PROGAMMAZIONE:",
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "AVATAR\\nFUOCO E FIAMME",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -9,6 +10,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Avatar.jpg?raw=true"
     },
     {
+      "testoStatoProgrammazione": "IN PROGAMMAZIONE:",
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "CHECCO ZALONE\\nBUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -17,6 +19,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
+      "testoStatoProgrammazione": "IN PROGAMMAZIONE:",
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "SPONCEBOB\\nBUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -25,6 +28,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Sponcebob.jpg?raw=true"
     },
     {
+      "testoStatoProgrammazione": "IN PROGAMMAZIONE:",
       "nomeCinema": "CINEMA EDEN",
       "titoloFilm": "CHECCO ZALONE\\nBUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -33,6 +37,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
+      "testoStatoProgrammazione": "DAL 8 GENNAIO:",
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "CHECCO ZALONE\\nBUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -41,6 +46,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
+      "testoStatoProgrammazione": "IN PROGAMMAZIONE:",
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
