@@ -1,43 +1,52 @@
 {
-  "nomeCinemaSala_1": "MULTISALA GRILLO",
-  "titoloFilm_1": "AVATAR\nFUOCO E FIAMME",
-  "inizioSpettacoli_1": "Inizio Spettacoli Ore:",
-  "ore_1": "18:30 - 22:00 3D",
-  "festivita_1": "",
-  "urlImmagine_1": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Avatar.jpg?raw=true",
-  
-  "nomeCinemaSala_2": "MULTISALA GRILLO",
-  "titoloFilm_2": "CHECCO ZALONE\nBUEN CAMINO",
-  "inizioSpettacoli_2": "Inizio Spettacoli Ore:",
-  "ore_2": "18:30 - 20:30 - 22:30",
-  "festivita_2": "FESTIVI ANCHE: 16:30",
-  "urlImmagine_2": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true",
-
-  "nomeCinemaSala_3": "MULTISALA GRILLO",
-  "titoloFilm_3": "SPONCEBOB\nUN'AVVENTURA DA PIRATI",
-  "inizioSpettacoli_3": "Inizio Spettacoli Ore:",
-  "ore_3": "18:30 - 22:00 3D",
-  "festivita_3": "",
-  "urlImmagine_3": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Sponcebob.jpg?raw=true",
-
-  "nomeCinemaSala_4": "CINEMA EDEN",
-  "titoloFilm_4": "Checco Zalone\nBUEN CAMINO",
-  "inizioSpettacoli_4": "Inizio Spettacoli Ore:",
-  "ore_4": "18:30 - 20:30 - 22:30",
-  "festivita_4": "FESTIVI ANCHE: 16:30",
-  "urlImmagine_4": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true",
-  
-  "nomeCinemaSala_5": "",
-  "titoloFilm_5": "Checco Zalone\nBUEN CAMINO",
-  "inizioSpettacoli_5": "Inizio Spettacoli Ore:",
-  "ore_5": "18:30 - 20:30 - 22:30",
-  "festivita_5": "FESTIVI ANCHE: 16:30",
-  "urlImmagine_5": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true",
-
-  "nomeCinemaSala_6": "",
-  "titoloFilm_6": "Checco Zalone\nBUEN CAMIONCINO",
-  "inizioSpettacoli_6": "Inizio Spettacoli Ore:",
-  "ore_6": "18:30 - 20:30 - 22:30",
-  "festivita_6": "FESTIVI ANCHE: 16:30",
-  "urlImmagine_6": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
+  "filmList": [
+    {
+      "nomeCinema": "MULTISALA GRILLO",
+      "titoloFilm": "AVATAR\nFUOCO E FIAMME",
+      "inizioSpettacoli": "Inizio Spettacoli Ore:",
+      "ore": "18:30 - 22:00 3D",
+      "festivita": "Festivo",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Avatar.jpg?raw=true"
+    },
+    {
+      "nomeCinema": "MULTISALA GRILLO",
+      "titoloFilm": "CHECCO ZALONE\nBUEN CAMINO",
+      "inizioSpettacoli": "Inizio Spettacoli Ore:",
+      "ore": "16:30 F - 18:30 - 20:30 - 22:30",
+      "festivita": "",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
+    },
+    {
+      "nomeCinema": "MULTISALA GRILLO",
+      "titoloFilm": "CHECCO ZALONE\nBUEN CAMINO",
+      "inizioSpettacoli": "Inizio Spettacoli Ore:",
+      "ore": "16:30 F - 18:30 - 20:30 - 22:30",
+      "festivita": "",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Sponcebob.jpg?raw=true"
+    },
+    {
+      "nomeCinema": "CINEMA EDEN",
+      "titoloFilm": "CHECCO ZALONE\nBUEN CAMINO",
+      "inizioSpettacoli": "Inizio Spettacoli Ore:",
+      "ore": "16:30 F - 18:30 - 20:30 - 22:30",
+      "festivita": "",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
+    },
+    {
+      "nomeCinema": "MULTISALA GRILLO",
+      "titoloFilm": "",
+      "inizioSpettacoli": "Inizio Spettacoli Ore:",
+      "ore": "16:30 F - 18:30 - 20:30 - 22:30",
+      "festivita": "",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
+    },
+    {
+      "nomeCinema": "MULTISALA GRILLO",
+      "titoloFilm": "",
+      "inizioSpettacoli": "Inizio Spettacoli Ore:",
+      "ore": "16:30 F - 18:30 - 20:30 - 22:30",
+      "festivita": "",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
+    }
+  ]
 }
