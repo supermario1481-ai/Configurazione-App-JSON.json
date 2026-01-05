@@ -1,7 +1,7 @@
 {
   "listaFilm": [
     {
-      "testoStatoProgrammazione": "IN PROGAMMAZIONE",
+      "testoStatoProgrammazione": "In Programmazione",
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "AVATAR - FUOCO E FIAMME",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -10,7 +10,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Avatar.jpg?raw=true"
     },
     {
-      "testoStatoProgrammazione": "IN PROGAMMAZIONE",
+      "testoStatoProgrammazione": "In Programmazione",
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "CHECCO ZALONE - BUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -19,7 +19,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
-      "testoStatoProgrammazione": "IN PROGAMMAZIONE",
+      "testoStatoProgrammazione": "In Programmazione",
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "SPONCEBOB - AVVENTURA PIRATI",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -28,7 +28,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Sponcebob.jpg?raw=true"
     },
     {
-      "testoStatoProgrammazione": "IN PROGAMMAZIONE",
+      "testoStatoProgrammazione": "In Programmazione",
       "nomeCinema": "CINEMA EDEN",
       "titoloFilm": "CHECCO ZALONE - BUEN CAMINO",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -37,7 +37,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
-      "testoStatoProgrammazione": "DAL 8 GENNAIO",
+      "testoStatoProgrammazione": "Dal 8 Gennaio",
       "nomeCinema": "MAZARACINEMA",
       "titoloFilm": "UNA DI FAMIGLIA - THE HOUSEMAID",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
@@ -46,7 +46,7 @@
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Una-Di-Famiglia.jpg?raw=true"
     },
     {
-      "testoStatoProgrammazione": "DAL 15 GENNAIO",
+      "testoStatoProgrammazione": "Dal 15 Gennaio",
       "nomeCinema": "MAZARACINEMA",
       "titoloFilm": "PAOLO SORRENTINO - LA GRAZIA",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
