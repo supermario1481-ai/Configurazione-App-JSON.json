@@ -47,7 +47,7 @@
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
       "ore": "18:00-20:15-22:30",
       "festivita": "",
-      "allineamento": "U",
+      "allineamento": "D",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Una-Di-Famiglia.jpg?raw=true"
     },
     {
@@ -57,7 +57,7 @@
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
       "ore": "18:00-20:15-22:30",
       "festivita": "",
-      "allineamento": "D",
+      "allineamento": "U",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
     }
   ]
