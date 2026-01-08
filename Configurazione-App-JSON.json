@@ -5,7 +5,7 @@
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "AVATAR - FUOCO E FIAMME",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
-      "ore": "18:30-22:00/3D",
+      "ore": "20:30/3D",
       "festivita": "",
       "allineamento": "C",
       "dataNotifica": "",
@@ -27,7 +27,7 @@
       "nomeCinema": "MULTISALA GRILLO",
       "titoloFilm": "SPONCEBOB - AVVENTURA PIRATI",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
-      "ore": "16:30/F-18:30-20:30-22:30",
+      "ore": "16:30/F",
       "festivita": "",
       "allineamento": "C",
       "dataNotifica": "",
@@ -35,25 +35,25 @@
     },
     {
       "testoStatoProgrammazione": "In Programmazione",
-      "nomeCinema": "CINEMA EDEN",
-      "titoloFilm": "CHECCO ZALONE - BUEN CAMINO",
+      "nomeCinema": "MULTISALA GRILLO",
+      "titoloFilm": "PRIMAVERA - VIVALDI",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
-      "ore": "16:30/F-18:30-20:30-22:30",
+      "ore": "18:30",
       "festivita": "",
-      "allineamento": "U",
+      "allineamento": "C",
       "dataNotifica": "",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Primavera.jpg?raw=true"
     },
     {
-      "testoStatoProgrammazione": "Dal 8 Gennaio",
-      "nomeCinema": "MAZARACINEMA",
+      "testoStatoProgrammazione": "In Programmazione",
+      "nomeCinema": "CINEMA EDEN",
       "titoloFilm": "UNA DI FAMIGLIA - THE HOUSEMAID",
       "inizioSpettacoli": "Inizio Spettacoli Ore:",
       "ore": "18:00-20:15-22:30",
       "festivita": "",
-      "allineamento": "C",
+      "allineamento": "U",
       "dataNotifica": "",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Una-Di-Famiglia.jpg?raw=true"
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
       "testoStatoProgrammazione": "Dal 15 Gennaio",
