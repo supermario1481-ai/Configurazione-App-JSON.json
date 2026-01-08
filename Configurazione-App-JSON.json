@@ -9,6 +9,7 @@
       "festivita": "",
       "allineamento": "C",
       "dataNotifica": "",
+      "trailerUrl": "https://www.youtube.com/watch?v=MzVvd9ekYOE",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Avatar.jpg?raw=true"
     },
     {
@@ -20,6 +21,7 @@
       "festivita": "",
       "allineamento": "U",
       "dataNotifica": "",
+      "trailerUrl": "https://www.youtube.com/watch?v=2E-VdjZMsZA",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/BUEN-CAMINO.jpg?raw=true"
     },
     {
@@ -31,6 +33,7 @@
       "festivita": "",
       "allineamento": "C",
       "dataNotifica": "",
+      "trailerUrl": "https://www.youtube.com/watch?v=f8wWpBxE0N4",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Sponcebob.jpg?raw=true"
     },
     {
@@ -42,6 +45,7 @@
       "festivita": "",
       "allineamento": "C",
       "dataNotifica": "",
+      "trailerUrl": "https://www.youtube.com/watch?v=Ny19a7DnduQ",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Primavera.jpg?raw=true"
     },
     {
@@ -53,6 +57,7 @@
       "festivita": "",
       "allineamento": "U",
       "dataNotifica": "",
+      "trailerUrl": "https://www.youtube.com/watch?v=EtBxHnBHdv4",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Una-Di-Famiglia.jpg?raw=true"
     },
     {
@@ -64,6 +69,7 @@
       "festivita": "",
       "allineamento": "C",
       "dataNotifica": "15/01/2026",
+      "trailerUrl": "",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
     }
   ]
