@@ -3,18 +3,6 @@
     {
       "textStatoProgrammazione": "In Programmazione",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "AVATAR - FUOCO E FIAMME",
-      "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "20:30/3D",
-      "textFestivita": "",
-      "allineamento": "C",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=MzVvd9ekYOE",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Avatar.jpg?raw=true"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione",
-      "textNomeCinema": "MULTISALA GRILLO",
       "textTitoloFilm": "CHECCO ZALONE - BUEN CAMINO",
       "textInizioSpettacoli": "Inizio Spettacoli Ore:",
       "textOre": "16:30/F-18:30-20:30-22:30",
@@ -27,50 +15,62 @@
     {
       "textStatoProgrammazione": "In Programmazione",
       "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "SPONCEBOB\nUn'Avventura da Pirati Fantasticissima",
+      "textTitoloFilm": "LA GRAZIA - Paolo Sorrentino",
       "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "16:30/F",
+      "textOre": "18:00-20:15-22:30",
       "textFestivita": "",
       "allineamento": "C",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=f8wWpBxE0N4",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Sponcebob.jpg?raw=true"
-    },
-    {
-      "textStatoProgrammazione": "In Programmazione",
-      "textNomeCinema": "MULTISALA GRILLO",
-      "textTitoloFilm": "PRIMAVERA - VIVALDI",
-      "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "18:30",
-      "textFestivita": "",
-      "allineamento": "C",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=Ny19a7DnduQ",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Primavera.jpg?raw=true"
+      "urlTrailer": "",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
     },
     {
       "textStatoProgrammazione": "In Programmazione",
       "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "UNA DI FAMIGLIA - THE HOUSEMAID",
+      "textTitoloFilm": "PRENDIAMOCI UNA PAUSA\nChristian Marazziti",
       "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "18:00-20:15-22:30",
+      "textOre": "18:30-20:30",
+      "textFestivita": "",
+      "allineamento": "C",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=2vSjv_WQjTs",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/prendiamoci_pausa.jpg?raw=true"
+    },
+    {
+      "textStatoProgrammazione": "In Programmazione",
+      "textNomeCinema": "CINEMA EDEN",
+      "textTitoloFilm": "UNA DI FAMIGLIA - The Housemaind",
+      "textInizioSpettacoli": "Inizio Spettacoli Ore:",
+      "textOre": "22:30",
       "textFestivita": "",
       "allineamento": "U",
-      "dataNotifica": "10/01/2026",
+      "dataNotifica": "",
       "urlTrailer": "https://www.youtube.com/watch?v=EtBxHnBHdv4",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Una-Di-Famiglia.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "Dal 16 Gennaio",
+      "textStatoProgrammazione": "DAL 29 GENNAIO",
       "textNomeCinema": "MAZARACINEMA",
-      "textTitoloFilm": "PAOLO SORRENTINO - LA GRAZIA",
+      "textTitoloFilm": "LE COSE NON DETTE\nGabriele Muccino",
       "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "18:00-20:15-22:30",
+      "textOre": "",
       "textFestivita": "",
       "allineamento": "C",
-      "dataNotifica": "17/01/2026",
-      "urlTrailer": "",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
+      "dataNotifica": "18/01/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=lFX9IZg6oaI",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/le-cose-non-dette.jpg?raw=true"
+    },
+    {
+      "textStatoProgrammazione": "DAL 12 FEBBRAIO",
+      "textNomeCinema": "MAZARACINEMA",
+      "textTitoloFilm": "IL MAGO DEL CREMLINO\nLe origini di Putin",
+      "textInizioSpettacoli": "Inizio Spettacoli Ore:",
+      "textOre": "",
+      "textFestivita": "",
+      "allineamento": "C",
+      "dataNotifica": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=mL2P2O441VE",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
     }
   ]
 }
