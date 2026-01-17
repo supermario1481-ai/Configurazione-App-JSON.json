@@ -52,11 +52,11 @@
       "textStatoProgrammazione": "DAL 29 GENNAIO",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "LE COSE NON DETTE\nGabriele Muccino",
-      "textInizioSpettacoli": "Inizio Spettacoli Ore:",
+      "textInizioSpettacoli": "",
       "textOre": "",
       "textFestivita": "",
       "allineamento": "C",
-      "dataNotifica": "18/01/2026",
+      "dataNotifica": "29/01/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=lFX9IZg6oaI",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/le-cose-non-dette.jpg?raw=true"
     },
@@ -64,11 +64,11 @@
       "textStatoProgrammazione": "DAL 12 FEBBRAIO",
       "textNomeCinema": "MAZARACINEMA",
       "textTitoloFilm": "IL MAGO DEL CREMLINO\nLe origini di Putin",
-      "textInizioSpettacoli": "Inizio Spettacoli Ore:",
+      "textInizioSpettacoli": "",
       "textOre": "",
       "textFestivita": "",
       "allineamento": "C",
-      "dataNotifica": "",
+      "dataNotifica": "18/01/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=mL2P2O441VE",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
     }
