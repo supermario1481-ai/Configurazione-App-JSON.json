@@ -21,32 +21,32 @@
       "textFestivita": "",
       "allineamento": "C",
       "dataNotifica": "",
-      "urlTrailer": "",
+      "urlTrailer": "https://www.youtube.com/watch?v=MZwx6RPrPzs",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/La-Grazia.jpg?raw=true"
     },
     {
       "textStatoProgrammazione": "In Programmazione",
       "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "PRENDIAMOCI UNA PAUSA\nChristian Marazziti",
+      "textTitoloFilm": "2 CUORI E 2 CAPANNE",
       "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "18:30-20:30",
+      "textOre": "16:30/F-18:30-20:30-22:30",
       "textFestivita": "",
       "allineamento": "C",
       "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=2vSjv_WQjTs",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/prendiamoci_pausa.jpg?raw=true"
+      "urlTrailer": "https://www.youtube.com/watch?v=99Tl_UBGHxU",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/2cuori2capanne.jpg?raw=true"
     },
     {
-      "textStatoProgrammazione": "In Programmazione",
+      "textStatoProgrammazione": "DAL 29 GENNAIO",
       "textNomeCinema": "CINEMA EDEN",
-      "textTitoloFilm": "UNA DI FAMIGLIA - The Housemaind",
-      "textInizioSpettacoli": "Inizio Spettacoli Ore:",
-      "textOre": "22:30",
+      "textTitoloFilm": "MARTY SUPREME - Un film di Josh Safdie",
+      "textInizioSpettacoli": "",
+      "textOre": "",
       "textFestivita": "",
       "allineamento": "U",
-      "dataNotifica": "",
-      "urlTrailer": "https://www.youtube.com/watch?v=EtBxHnBHdv4",
-      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/Una-Di-Famiglia.jpg?raw=true"
+      "dataNotifica": "29/01/2026",
+      "urlTrailer": "https://www.youtube.com/watch?v=nEZq1gcyoD0",
+      "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/martySupreme.jpg?raw=true"
     },
     {
       "textStatoProgrammazione": "DAL 29 GENNAIO",
@@ -68,7 +68,7 @@
       "textOre": "",
       "textFestivita": "",
       "allineamento": "C",
-      "dataNotifica": "21/01/2026",
+      "dataNotifica": "22/01/2026",
       "urlTrailer": "https://www.youtube.com/watch?v=mL2P2O441VE",
       "urlImmagine": "https://github.com/supermario1481-ai/Configurazione-App-JSON.json/blob/main/il-mago-del-cremlino.jpg?raw=true"
     }
